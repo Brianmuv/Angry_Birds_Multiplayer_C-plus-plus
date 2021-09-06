@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/acceso.jpg</file>
+        <file>images/bloque.png</file>
+        <file>images/bloque2.png</file>
+        <file>images/disq.png</file>
+        <file>images/load.png</file>
+        <file>images/logo.ico</file>
+        <file>images/Mapa.jpg</file>
+        <file>images/menu.png</file>
+        <file>images/pajaro.png</file>
+        <file>images/pajaro2.png</file>
+        <file>images/pig.png</file>
+        <file>images/resotera.png</file>
+        <file>Data/2Nivel_1.txt</file>
+        <file>Data/2Nivel_2.txt</file>
+        <file>Data/2Nivel_3.txt</file>
+        <file>Data/Nivel_1.txt</file>
+        <file>Data/Nivel_2.txt</file>
+        <file>Data/Nivel_3.txt</file>
+    </qresource>
+</RCC>
